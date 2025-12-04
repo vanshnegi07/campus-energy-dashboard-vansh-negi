@@ -1,0 +1,2 @@
+Total campus consumption (kWh): 97.00
+Highest consuming building: building1
